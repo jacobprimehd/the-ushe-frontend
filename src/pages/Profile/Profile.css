@@ -1,0 +1,70 @@
+p {
+    font-size: 22px;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    padding-top:15px;
+}
+
+.cards-container{
+    padding-bottom: 20px;
+}
+
+.label {
+    font-size: 17px;
+    font-family: Helvetica;
+    letter-spacing: 0px;
+    font-weight: 0px;
+}
+
+.modal-btn {
+
+width: 160px;
+  height: 25px;
+  background: linear-gradient(to bottom, whitesmoke 0%, tan 100%); /* W3C */
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  color: black;
+  font-weight: 200;
+  font-family: Helvetica;
+  font-size: 15px;
+  text-align: center;
+  text-indent: 5px;
+  text-transform: uppercase;
+  box-shadow: 0px 3px 0px 0px rgba(0,0,0,.2);
+  cursor: pointer;
+}
+
+.form-input {
+    font-size: 14px;
+    font-family: Helvetica;
+    text-transform: uppercase; 
+}
+
+h2 {
+    font-size: 18px;
+    color: peru;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+    padding-bottom: 25px;
+}
+
+.cards-container {
+    padding-top: 15px;
+}
+
+.Profile {
+    text-indent: 2px;
+}
+
+.btn{
+    font-size: 12px;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    padding-bottom: 5px;
+}
+
+.friends-container {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}

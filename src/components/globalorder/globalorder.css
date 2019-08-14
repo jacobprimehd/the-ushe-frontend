@@ -1,0 +1,112 @@
+p {
+    font-size: 22px;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    padding-top:15px;
+}
+
+h1 {
+    font-size: 31px;
+    font-family: Helvetica;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: 18px;
+    color: peru;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+    padding-bottom: 25px;
+}
+
+.cards-container {
+    padding-top: 15px;
+}
+
+.Profile {
+    text-indent: 2px;
+}
+
+.btn{
+    font-size: 12px;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    padding-bottom: 5px;
+}
+
+.friends-container {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.card-body{
+    padding-top: 0px;
+    padding-bottom:2px;
+}
+.container{
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: #FEAC5E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.card-title{
+    text-transform: uppercase;
+    font-family: Helvetica;
+    letter-spacing: 1px;
+    font-size:18px;
+    padding-top: 0px;
+}
+
+.list-group-item{
+    font-family: Helvetica;
+    font-weight: 0px;
+    border-width: 0px;
+    background:rgba(255,255,255,0.5);
+    color: #383838;
+    font-size:13px;
+}
+
+.order-name{
+    letter-spacing: 1px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+
+.bio{
+    font-family: Helvetica;
+}
+
+.bioheader{
+    font-family: Helvetica;
+}
+.row-overview h3 {
+    font-weight: 0px;
+    margin-top: 15px;
+    margin: 10px 0 0 0;
+}
+
+.row-overview h4 {
+    font-weight:0px;
+    margin-top: 0;
+}
+
+.view {
+    position:relative;
+    overflow:hidden;
+    margin-top: 10px;
+}
+
+.view p {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
